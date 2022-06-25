@@ -1,0 +1,47 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "419fd7f1d64eac64",
+            "max_int": "7e5dce944547afbe",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "The Man From The Window",
+            "photo": "https://i.postimg.cc/KzVGQrkC/Untitled-1321.png",
+            "voice": "https://ringy9.github.io/The-man-from-the-window-call/hero_voice.mp3",
+            "video": "https://ringy9.github.io/The-man-from-the-window-call/hero_video.mp4",
+            "stories": [
+               "https://i.postimg.cc/hvqwSfHf/3.png",
+"https://i.postimg.cc/QxhPwKQz/ddg.png",
+"https://i.postimg.cc/T2rFtJDm/ffdgdf.png",
+"https://i.postimg.cc/SxKPN0t7/fgdf.png",
+"https://i.postimg.cc/tCkfjRD4/fgfd.png",
+"https://i.postimg.cc/0Q7WH9bx/gdftg.png",
+"https://i.postimg.cc/RZbDWPkr/jhg.png",
+"https://i.postimg.cc/1znYwGS8/kjjljjp.png",
+"https://i.postimg.cc/q7PDLNBj/sqdqs.png"
+               
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/hvqwSfHf/3.png",
+"https://i.postimg.cc/QxhPwKQz/ddg.png",
+"https://i.postimg.cc/T2rFtJDm/ffdgdf.png",
+"https://i.postimg.cc/SxKPN0t7/fgdf.png",
+"https://i.postimg.cc/tCkfjRD4/fgfd.png",
+"https://i.postimg.cc/0Q7WH9bx/gdftg.png",
+"https://i.postimg.cc/RZbDWPkr/jhg.png",
+"https://i.postimg.cc/1znYwGS8/kjjljjp.png",
+"https://i.postimg.cc/q7PDLNBj/sqdqs.png"
+            ]
+          
+        }
+    ]
+}
